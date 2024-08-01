@@ -9,4 +9,4 @@ function project_opener(RmS, hi) {
 
 // Define variables
 const RmS = true;
-const  = true;
+const hi = true;
